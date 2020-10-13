@@ -24,7 +24,7 @@ Credit: NNGroup - https://www.nngroup.com/articles/how-to-rate-the-severity-of-u
 
 Moodfit is an app that aims to allow users to improve their mood by tracking their emotions on a day-to-day basis, recording journal entries of how they’re feeling, participating in mindfulness and meditation, and more. By seeing the patterns of their emotional state and practicing mental health interventions, Moodfit users will have ways to deal with mental health issues like stress, depression, and anxiety.
 
-![Moodfit homepage](moodfit home.jpeg)
+![Moodfit Homepage](./moodfit home.jpeg)
 
 ### Motivation for Choosing the App:
 
