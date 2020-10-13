@@ -122,12 +122,12 @@ Overall, I feel like this app does provide some very good resources to its users
 ## App #2: Moodnotes
 #### Link: https://apps.apple.com/us/app/moodnotes-mood-tracker/id1019230398
 
-![Moodnotes homepage](moodnoteshome.jpeg)
-
 ### App Description:
 
 Moodnotes is a mood tracker and journaling app that helps users keep up with the patterns of their mood and thinking habits. The app lets the user log their mood in various ways, such as manual input or facial scanning, and aims to bring awareness to a user's thinking "traps", reduce their anxiety, and increase their well-being.
-#add homepage pic 
+
+![Moodnotes homepage](moodnoteshome.jpeg)
+
 
 ### Motivation for Choosing the App:
 
