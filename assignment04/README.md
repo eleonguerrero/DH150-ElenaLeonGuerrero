@@ -55,6 +55,7 @@ To conduct the interview, I met with my interviewee over Zoom, around the time t
 ### User Data
 * The full recording of the interview can be found [here](https://drive.google.com/file/d/1XEclIS64KGetdMKy1rY-d1ZZNxcxhxcL/view?usp=sharing). 
 * The full transcription of the interview can be found [here](https://docs.google.com/document/d/1-ax3UEQ6PFaDwPgmZVV54lxXalc2LDZhcjEg5xH8zOc/edit?usp=sharing).
+* Extra: See [here](https://docs.google.com/document/d/1-Pj3wFY4yxme854OnFIP99xTi10L-KW87dmvm-JDSis/edit?usp=sharing) for extra pictures of journals, layouts, and materials from my post-interview chat with my participant.
 
 ### Interesting Insights
 
