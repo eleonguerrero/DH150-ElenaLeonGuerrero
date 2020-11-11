@@ -22,69 +22,70 @@ The key features of this design are as follows:
 
 ## Personas + Empathy Maps
 
-### Persona 1: Name
+### Persona 1: Katherine Bellford
 
-#![Image Description](imagenamenospaces.jpeg)
+![Persona Katherine Bellford](personakatherine.jpg)
 
-#### Name's Empathy Map
+#### Katherine's Empathy Map
 
-#![Image Description](imagenamenospaces.jpeg)
+![Katherine Empathy Map](empathymapkatherine.png)
 
 
-### Persona 2: Name
+### Persona 2: Amy Chang
 
-#![Image Description](imagenamenospaces.jpeg)
+![Persona Amy Chang](personaamy.jpg)
 
-#### Name's Empathy Map
+#### Amy's Empathy Map
 
-#![Image Description](imagenamenospaces.jpeg)
+![Amy Empathy Map](empathymapamy.png)
 
-### Persona 3: Name
 
-#![Image Description](imagenamenospaces.jpeg)
+### Persona 3: Nicole Smith
 
-#### Name's Empathy Map
+![Persona Nicole Smith](personanicole.jpg)
 
-#![Image Description](imagenamenospaces.jpeg)
+#### Nicole's Empathy Map
+
+![Nicole Empathy Map](empathymapnicole.png)
 
 
 
 ## Scenarios + Journey Maps
 
-### Name's Scenario and Journey Map:
+### Katherine's Scenario and Journey Map:
 
-#### Why Name is using this product:
-*Text*
+#### Why Katherine is using this product:
+*Katherine is a busy mom who also has a full time job -- both contribute to a stressful lifestyle. As a result, she often wishes she had a way to destress at the end of a long day. Her coworkers recommended journaling to her, so Katherine decided to give it a try. Katherine wants to give it a fair shot, but since she has such little time to manually sit down and write, she decided to download an app. She hopes this app is simple, and quick to use to get her thoughts out.*
 
-#### How Name is using this product:
-*Text*
+#### How Katherine is using this product:
+*After her kids have gone to bed, Katherine turns on her phone and loads up the app to talk about her day and relieve some stress. The application opens with an option to “Start an Entry” and Katherine selects it. She goes through the process for creating an entry by filling out various fields such as “What is your mood?” and picking an option, until she gets to the point where she can fill in a text box about her day. She writes out her feelings, pushes “Save”, and in a matter of a few minutes, successfully created a quick, concise journal entry.*
 
-#### Name's Journey Map:
+#### Katherine's Journey Map:
 
-#![Image Description](imagenamenospaces.jpeg)
-
-
-### Name's Scenario and Journey Map:
-
-#### Why Name is using this product:
-*Text*
-
-#### How Name is using this product:
-*Text*
-
-#### Name's Journey Map:
-
-#![Image Description](imagenamenospaces.jpeg)
+![Katherine Journey Map](journeymapkatherine.png)
 
 
-### Name's Scenario and Journey Map:
+### Amy's Scenario and Journey Map:
 
-#### Why Name is using this product:
-*Text*
+#### Why Amy is using this product:
+*Amy works an emotionally tolling job as a NICU nurse, and has been experiencing some mental health issues outside of that. Her health is important to her, so she decided to recently start therapy to address her mental health problems. She intends to take her therapy seriously, and even wants to supplement her treatment with her own data collection so she can track her progress in therapy, list interventions that are working or other notes for her next sessions, and simply how her day was. To do this, Amy uses a journal and mood tracking app that would allow her to see her progress via data insights, write down all the information she wants to throughout the day, and keep her accountable to this new habit.*
 
-#### How Name is using this product:
-*Text*
+#### How Amy is using this product:
+*As she goes about her day, Amy tracks her feelings and notes if she successfully used a therapeutic method. To do this, she sets three periodic reminders that occur daily to remind her to write about what’s going on before she forgets the events of the day, her successes in regards to therapy, etc. As she uses the product, Amy can edit past entries with the “edit” if she forgot some information, or adds moods/notes to an entry with an “+” button, which allows her to get an accurate representation of her feelings throughout the day to look back on.*
 
-#### Name's Journey Map:
+#### Amy's Journey Map:
 
-#![Image Description](imagenamenospaces.jpeg)
+![AmyJourney Map](journeymapamy.png)
+
+
+### Nicole's Scenario and Journey Map:
+
+#### Why Nicole is using this product:
+*As a freelance photographer, Nicole is a natural creative and loves to do crafty and artistic hobbies. Aside from photography, Nicole enjoys mediums like calligraphy, scrapbooking, and more. As for her most recent hobby of interest, Nicole has wanted to get into journaling, but finds regular journaling much too boring, thus needing an incentive to journal. Since she would prefer something that wouldn’t get lost among her other creative supplies, she wanted to try out journaling via an app in hopes that she could even implement some pictures, emojis, and more personalization to her journaling in a streamlined way.*
+
+#### How Nicole is using this product:
+*While sitting down for a journaling session, Nicole goes through the motions of getting to where she can write details about her day. Once there, Nicole frequently adds emojis, pictures, gifs, font styles, and more depending on her mood for the day. To do this, she uses the various icons presented at the bottom of the screen when she starts typing, such as a picture icon button for adding pictures or gifs, using her emoji keyboard, or highlighting text then applying the text editing icons (e.g. fonts, size, highlighting, etc.). Once satisfied with the content and aesthetic of this creative outlet, Nicole presses “Save” and happily goes about the rest of her day.*
+
+#### Nicole's Journey Map:
+
+![Nicole Journey Map](journeymapnicole.png)
