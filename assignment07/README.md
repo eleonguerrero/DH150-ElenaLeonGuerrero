@@ -27,11 +27,11 @@ The tasks capable in this prototype are as follows:
 
 ## Wireframes: Representative Screen Designs
 
-![Representative Screen Designs](representativescreens.png)
+![Representative Screen Designs](repscreensedit.png)
 
 ## Wireflow
 
-![Hi-fi Wireflow](wireflow.png)
+![Hi-fi Wireflow](wirefllowedit.png)
 
 ## About the GUI
 
