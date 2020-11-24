@@ -27,21 +27,30 @@ The tasks capable in this prototype are as follows:
 
 ## Wireframes: Representative Screen Designs
 
-![Image Description](imagename.jpg)
+![Representative Screen Designs](representativescreens.png)
 
 ## Wireflow
 
-![Image Description](imagename.jpg)
+![Hi-fi Wireflow](wireflow.png)
 
 ## About the GUI
 
 ### Color
 
-![Image Description](imagename.jpg)
+![Contrast Check #1](contrastgraywhite.png)
+![Contrast Check #2](contrastltgraywhite.png)
+![Contrast Check #3](contrastgraybeige.png)
+![Contrast Check #4](contrastbluegray.png)
+
+When designing this app I knew I wanted it to be a friendly and inviting space without looking too childish, and perhaps a bit journal-inspired. Not only that, but since I intended for the addition of photos in this project, I wanted to make sure the photos would not clash with the color pallette. As a result, I used [this website](https://www.color-hex.com/color-palettes/) to get some inspiration for color palettes that weren't too loud. I found one that had a very white and very light yellow, almost like pages of a journal, and simple pastels from common colors like red, blue, and green, and decided it was the best choice out of all the options I considered to get that clean and inviting look. Additionally, in order to prevent eyestrain from black font over a white background, I decided to use more of a dark gray for most text in the design. See the pictures above for contrast checks of the text colors and their backgrounds.
+
 
 ### Images & Icons
 
+For the images used, I went to [this website](https://icons8.com/illustrations) to find free vector illustrations that could also be edited to match my desired color pallette. I wanted this app to look like many of the more popular interfaces I've seen lately, where there were abstract shapes and pops of color to make it look friendly, yet clean. Aside from the abstract shapes, I also found some understated hand-drawn illustrations of faces to test in my UI, as many journaling apps tend to have some kind of emoji/icon system for their mood trackers.
+
 ### Typography
+As for typography, I wanted to make sure that the fonts I used were accessible to users, so I chose from some of the most popular sans-serif fonts, "Montserrat" for headings and "Avenir" for text, to keep a clean and easy to read look.
 
 ## Key Feedback from Initial Impression Test
 
