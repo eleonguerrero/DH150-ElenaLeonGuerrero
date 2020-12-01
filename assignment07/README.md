@@ -20,18 +20,28 @@ This high-fidelity prototype was created following several steps of the design p
 
 The tasks capable in this prototype are as follows: 
 
-* *Task 1: Mood documentation and journal entry creation.*
-* *Task 2: Addition of a new entry later in the day.*
-* *Task 3: Edit of an entry.*
-* *Task 4: Addition of aesthetic and personalization features (e.g. photo sharing) to make journaling more customizable, engaging, and fulfilling.*
+*Task 1: Mood documentation and journal entry creation.*
+![Mood log and entry creation](addentry.png)
 
-## Wireframes: Representative Screen Designs
+*Task 2: Addition of a new entry later in the day.*
+![Adding a second entry](add2entry.png)
 
-![Representative Screen Designs](repscreensedit.png)
+*Task 3: Edit of an entry.*
+![Editing Entry 1](editentry.png)
 
-## Wireflow
+*Task 4: Addition of aesthetic and personalization features (e.g. photo sharing) to make journaling more customizable, engaging, and fulfilling.*
+![Adding pictures](addpic.png)
 
-![Hi-fi Wireflow](wirefllowedit.png)
+
+## Wireframes: Representative Screen Designs (V2)
+
+![Representative Screen Designs](repscreensfin.png)
+
+## Wireflow & Interactive Prototype (V2)
+
+![Hi-fi Wireflow](wireflowfin.png)
+
+You can access the interactive prototype for this wireflow [here](https://www.figma.com/proto/i9J7VfF0yQ0U4hXWnHW136/DH150-Assignment-7-Hi-Fi-Prototype?node-id=2%3A0&viewport=401%2C393%2C0.47508272528648376&scaling=scale-down).
 
 ## About the GUI
 
@@ -54,8 +64,28 @@ As for typography, I wanted to make sure that the fonts I used were accessible t
 
 ## Key Feedback from Initial Impression Test
 
-Upon showing my high-fidelity prototype to a user, these were the main pieces of feedback they had to say:
+Upon showing the first version of my high-fidelity prototype to a user, these were the main pieces of feedback they had to say:
 
 * *“I like it, I think the design is clean!*
 * *“The colors are nice, but not too in your face, which is something you’d want for something where you’re writing your daily thoughts -- something not overbearing.”*
 * *The UI is intuitive, it doesn’t confuse me, and seems pretty straightforward.”*
+
+## Key Feedback from Cognitive Walkthrough
+![Cognitive Walkthrough Evidence](cogwalkthrough.png)
+
+After conducting a cognitive walkthrough with my intiial high-fidelity prototype with 3 of my peers, there were a few general findings. For the most part, it seemed as though the overall look of the app was seen favorably, and that upon first glance, users could tell what to do with it. Second, due to leaving out some key screens or a button or two on my part, it caused initial confusion with one user. One place of confusion was with how many reasons a user could choose to describe how they were feeling, and the second was with how to move forward from a screen where the user is supposed to type something.
+
+## Initial Wireframes & Wireflow
+See below for my initial wireframes and wireflow.
+![Initial Representative Screen Designs](repscreensedit.png)
+![Initial Hi-fi Wireflow](wirefllowedit.png)
+
+#### What's different?
+* *Added new "confirm" buttons on pages where users were supposed to choose the reasons for their feelings, and changed "return" to "done" on keyboard during text input.*
+* *Fully mapped out tasks by adding screens that seemed missing in the sequence of steps (e.g. added selected picture and blue "add" screen in the "adding an image" task) + separated individual tasks on artboard to provide a better sense of the flow of each of them (e.g. creating a second entry).*
+* *Darkened icons for better accessibility.*
+* *Added drop shadows to text, buttons, and boxes, decreased boarder size, and added blur effect to abstract shapes for a cleaner look when distiguishing foreground objects from the background.*
+* *Rearranged some abstract shapes and decreased their size on a screen to make everything feel more spacious/easy to read.
+
+## Reflection
+Overall, I think that this assignment was an really great learning process for me. Based on the initial impressoin test and cognitive walkthrough, it seemed as though my design was fairly intutitive and eye-pleasing, with a few minor issues that I tried to address in the second interation. The cognitive walkthrough was especially helpful in highlighting the oversights I might have missed, such as with confirmation buttons. I actually second guessed myself with the addition of those as I thought it could be self-explanatory that clicking certain options would move the flow along, but it was a good lesson to see that I cannot always count on that and need to see what the users think. As for the initial aesthetic of the design, I was not particurly satisfied with it and believed I could made it a little cleaner. I think I succeeded in that, but as for something I would do differently, I definitely want to hone my skills in finding the balance between making a design neat, yet friendly in the future. I also would want to try not second guessing myself, and let the users be the ones to tell me I need to take something out rather than add something in!
