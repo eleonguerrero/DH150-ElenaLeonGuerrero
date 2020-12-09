@@ -21,25 +21,25 @@ This high-fidelity prototype was created following several steps of the design p
 The tasks capable in this prototype are as follows: 
 
 *Task 1: Mood documentation and journal entry creation.*
-![Mood log and entry creation](addentry.png)
+![Mood log and entry creation](addentry2.png)
 
 *Task 2: Addition of a new entry later in the day.*
-![Adding a second entry](add2entry.png)
+![Adding a second entry](add2entry2.png)
 
 *Task 3: Edit of an entry.*
-![Editing Entry 1](editentry.png)
+![Editing Entry 1](editentry2.png)
 
 *Task 4: Addition of aesthetic and personalization features (e.g. photo sharing) to make journaling more customizable, engaging, and fulfilling.*
-![Adding pictures](addpic.png)
+![Adding pictures](addpic2.png)
 
 
 ## Wireframes: Representative Screen Designs (V2)
 
-![Representative Screen Designs](repscreensfin.png)
+![Representative Screen Designs](repscreensfin2.png)
 
 ## Wireflow & Interactive Prototype (V2)
 
-![Hi-fi Wireflow](wireflowfin.png)
+![Hi-fi Wireflow](wireflowfin2.png)
 
 You can access the interactive prototype for this wireflow [here](https://www.figma.com/proto/i9J7VfF0yQ0U4hXWnHW136/DH150-Assignment-7-Hi-Fi-Prototype?node-id=2%3A0&viewport=401%2C393%2C0.47508272528648376&scaling=scale-down).
 
